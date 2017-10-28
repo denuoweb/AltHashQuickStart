@@ -4,7 +4,7 @@ Quick start with Qtum
 
 # Install Qtum
 Install Docker
-docker pull crypt0m1nd3r/docker-qtum
+docker pull cryptominder/qtum
 
 # Write a contract
 remix.ethereum.org
