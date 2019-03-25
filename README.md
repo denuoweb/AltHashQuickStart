@@ -1,5 +1,5 @@
-# qtumquickstart
-Quick start with Qtum
+# althashquickstart
+Quick start with AltHash
 
 
 # Install Qtum
